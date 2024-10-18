@@ -8,7 +8,6 @@
 <body>
     <h1>Assista ao vídeo: Otto 2 Anos.</h1>
     <video width="640" height="360" controls>
-        <source src="teste.mp4" type="video/mp4">
         Seu navegador não suporta a reprodução de vídeos.
    
    [Assista ao vídeo](https://www.youtube.com/watch?v=eRk8TBdGM1w)
