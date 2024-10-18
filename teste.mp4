@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Assista ao vídeo: Otto 2 Anos.</h1>   
-   Assista ao vídeo (https://www.youtube.com/watch?v=eRk8TBdGM1w)
+   Assista ao vídeo https://www.youtube.com/watch?v=eRk8TBdGM1w
 
 </body>
 </html>
